@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aaditya Jain</h1>
-<h3 align="center">A passionate developer interested in FUllstack and Data Science with a little knack in Designing</h3>
+<h3 align="center">A passionate developer interested in Full stack and Data Science with a little knack in Designing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadityajain17&label=Profile%20views&color=0e75b6&style=flat" alt="aadityajain17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityajain17" alt="aadityajain17" /></a> </p>
 
-- 🔭 I’m currently working on **Turing Website(Technical Club)**
+- 🔭 I’m currently working on **ATS score checker app**
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadityaJain17](https://github.com/AadityaJain17)
 
